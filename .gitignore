@@ -1,0 +1,12 @@
+# Ignore virtual environment
+tfenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS metadata
+.DS_Store
+
+# Environment variable files (if you use dotenv)
+.env
